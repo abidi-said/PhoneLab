@@ -3,6 +3,7 @@
 This work developped by [dynamic coder](https://github.com/dynamic-coder).
 
 Preview: dynamic-coder/PhoneLab/preview
+         https://60b2596ac75e1e9830758855--phone-lab.netlify.app/
 
 Runs the app in the development mode.<br />
 
