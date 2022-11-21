@@ -26,7 +26,7 @@
     "react-router-dom": "^5.1.2",
     "react-router-page-transition": "^3.1.0",
     "react-router-transition": "^2.0.0",
-    "react-scripts": "^3.4.0",
+    "react-scripts": "^5.0.1",
     "react-simple-invoice": "^1.0.7",
     "react-swipeable-views": "^0.13.3"
   },
